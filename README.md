@@ -1,2 +1,1 @@
-# hello_word
-learn to create a repository
+this is a file named readme.md save in readme_edit
